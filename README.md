@@ -18,7 +18,7 @@ This repository contains configuration files and setup instructions for NeoVim a
    
 ### Tmux Setup
 1. Clone the `.tmux.conf` file to your home directory:
-   - `git clone https://github.com/john221wick/.tmux.conf ~/`
+   - `git clone https://github.com/john221wick/tmux-files/.tmux.conf ~/`
 2. Reload Tmux configuration: `tmux source-file ~/.tmux.conf`
 
 ### NeoVim
