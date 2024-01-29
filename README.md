@@ -32,4 +32,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-This template is straightforward and easy for configuring neovim and tmux in your linux or macos
+This template is straightforward and easy for configuring neovim and tmux in your linux or macos. However i have not added important plugins, i will add it soon.
