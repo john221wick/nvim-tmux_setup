@@ -12,13 +12,13 @@ This repository contains configuration files and setup instructions for NeoVim a
 ## Installation
 
 ### NeoVim Setup
-1. Clone the repository: `git clone git clone https://github.com/john221wick/nvim ~/.config/nvim`
+1. Clone the repository: `git clone https://github.com/john221wick/nvim ~/.config/nvim`
 2. Remove the .git folder, so you can add it to your own repo later: `rm -rf ~/.config/nvim/.git`
 3. Start neovim: `nvim`
    
 ### Tmux Setup
-1. Copy the `.tmux.conf` file to your home directory:
-   - `cp [path-to-downloaded-location]/.tmux.conf ~/`
+1. Clone the `.tmux.conf` file to your home directory:
+   - `git clone https://github.com/john221wick/.tmux.conf ~/`
 2. Reload Tmux configuration: `tmux source-file ~/.tmux.conf`
 
 ### NeoVim
